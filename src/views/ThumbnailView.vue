@@ -22,7 +22,7 @@
 </template>
 
 <script>
-import NavbarComponent from "@/components/Navbar.vue";
+import NavbarComponent from "@/components/Header.vue";
 import InformationComponent from "@/components/Information.vue";
 
 import Typography from "@/atoms/Typography.vue";

@@ -26,13 +26,14 @@
     </div>
   </nav>
 </template>
+
 <script>
 import Button from "@/atoms/Button.vue";
 import List from "@/atoms/List.vue";
 import ImageLogo from "@/atoms/Image.vue";
 
 export default {
-  name: "Navbar-Component",
+  name: "Header-Component",
   components: {
     Button,
     List,
@@ -40,6 +41,7 @@ export default {
   },
 };
 </script>
+
 <style scoped>
 .navbar {
   padding: 28px 72px;

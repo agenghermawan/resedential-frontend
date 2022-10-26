@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import NavbarComponent from "@/components/Navbar.vue";
+import NavbarComponent from "@/components/Header.vue";
 import HeroComponent from "@/components/Hero.vue";
 
 export default {
